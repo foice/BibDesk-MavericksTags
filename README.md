@@ -1,7 +1,7 @@
 BibDesk-OSXTagsPlus
 =====================
 
-Applescripts to enter keywords in BibDesk and have them instantly added as OS X tags to the file and, together with current date/time, as xattr properties in a JSON list. 
+Applescripts to enter keywords in BibDesk and have them instantly added as OS X tags to the PDF file and, together with current date/time, as xattr properties in a JSON list. 
 
 ### Dependencies
 

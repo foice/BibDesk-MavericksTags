@@ -1,4 +1,4 @@
-BibDesk-MavericksTags
+BibDesk-OSXTagsPlus
 =====================
 
 Applescripts for working with BibDesk, Skim and Mavericks tags

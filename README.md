@@ -1,7 +1,7 @@
 BibDesk-OSXTagsPlus
 =====================
 
-Applescripts for working with BibDesk, Skim and Mavericks tags
+Applescripts to enter keywords in BibDesk and have them instantly added as OS X tags to the file and, together with current date/time, as xattr properties in a JSON list. 
 
 ### Dependencies
 
